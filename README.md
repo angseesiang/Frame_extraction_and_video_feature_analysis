@@ -40,7 +40,7 @@ features, and save results for further use.
 ### 1. Clone this repository
 
 ``` bash
-git clone https://github.com/angseesiang/video-processing-application.git
+git clone https://github.com/angseesiang/Frame_extraction_and_video_feature_analysis.git
 cd video-processing-application
 ```
 
