@@ -81,6 +81,8 @@ python test_video_processor.py
 
 ``` bash
 cd results # see the newly created results after the run
+cat results.json # for python video_processor.py
+cat test_results.json # for python test_video_processor.py
 ```
 
 ------------------------------------------------------------------------
