@@ -41,7 +41,7 @@ features, and save results for further use.
 
 ``` bash
 git clone https://github.com/angseesiang/Frame_extraction_and_video_feature_analysis.git
-cd video-processing-application
+cd Frame_extraction_and_video_feature_analysis
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
