@@ -40,7 +40,7 @@ features, and save results for further use.
 ### 1. Clone this repository
 
 ``` bash
-git clone https://github.com/your-username/video-processing-application.git
+git clone https://github.com/angseesiang/video-processing-application.git
 cd video-processing-application
 ```
 
@@ -74,7 +74,13 @@ Save the processor object to `results/video_processor.pkl`
 ### 5. Run tests
 
 ``` bash
-python -m unittest test_video_processor.py
+python test_video_processor.py
+```
+
+### 6. See results
+
+``` bash
+cd results # see the newly created results after the run
 ```
 
 ------------------------------------------------------------------------
